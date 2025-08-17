@@ -92,7 +92,7 @@
   }
 
   .question-card {
-    @apply assessment-card hover:shadow-3xl transition-all duration-300;
+    @apply assessment-card hover:shadow-2xl transition-all duration-300;
   }
 
   .option-button {
